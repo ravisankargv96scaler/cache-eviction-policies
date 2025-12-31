@@ -1,0 +1,5 @@
+{
+  "name": "47d-Cache Eviction Visualizer",
+  "description": "An interactive educational tool demonstrating various cache eviction policies (FIFO, LRU, LFU) with animated simulations.",
+  "requestFramePermissions": []
+}
